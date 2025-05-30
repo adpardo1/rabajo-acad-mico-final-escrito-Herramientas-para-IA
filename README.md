@@ -1,6 +1,6 @@
 # Análisis de Datos Financieros con Python
 
-Este proyecto consiste en la integración, análisis y visualización de datos financieros usando Python. Se utilizaron dos fuentes de datos: un archivo CSV con información de clientes y una base de datos SQLite con transacciones bancarias. El objetivo fue combinar ambos conjuntos, limpiar los datos y generar visualizaciones interactivas.
+Este proyecto consiste en la integración, análisis y visualización de datos financieros usando Python. Se utilizaron dos fuentes de datos: un archivo CSV con información de clientes y una base de datos SQLite con transacciones bancarias. El objetivo fue combinar ambos conjuntos y generar visualizaciones interactivas.
 
 ## Librerías Utilizadas
 
